@@ -1,4 +1,4 @@
-# DeepOptimization 
+# DeepOptimization
 
 This project focuses on optimizing neural networks using techniques such as knowledge distillation, quantization, pruning, and parameter-efficient fine-tuning. The goal of this project is to explore methods that can help reduce the computational complexity and memory footprint of neural networks without compromising their accuracy.
 
